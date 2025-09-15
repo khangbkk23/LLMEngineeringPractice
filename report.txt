@@ -1,0 +1,67 @@
+Starting diagnostics at 2025-09-15 08:50:30
+
+===== System Information =====
+Operating System: Linux
+Platform: Linux-6.6.87.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+Architecture: ('64bit', 'ELF')
+Machine: x86_64
+Processor: x86_64
+Total RAM: 11.55 GB
+Available RAM: 8.80 GB
+Free Disk Space: 868.55 GB
+
+===== File System Information =====
+Current Directory: /mnt/e/Development/Python/LLMEngineering/LLMEngineeringPractice
+Write permission: OK
+
+Files in Current Directory:
+ - .env
+ - .git
+ - .gitignore
+ - LICENSE
+ - README.md
+ - Week_1
+ - __pycache__
+ - diagnostics.ipynb
+ - diagnostics.py
+ - environment.yml
+ - openAI.md
+ - report.txt
+ - requirements.txt
+ - troubleshooting.ipynb
+
+===== Git Repository Information =====
+Git Repository Root: /mnt/e/Development/Python/LLMEngineering/LLMEngineeringPractice
+Current Commit: 3b5a2335ea2ab36d4ed406f3dacd7a167487cda0
+Remote Origin: https://github.com/khangbkk23/LLMEngineeringPractice.git
+
+===== Environment File Check =====
+.env file exists at: /mnt/e/Development/Python/LLMEngineering/LLMEngineeringPractice/.env
+WARNING: OPENAI_API_KEY not found in .env file
+
+===== Anaconda Environment Check =====
+Anaconda environment is active:
+Environment Path: /home/dikhang_hcmut/miniconda3/envs/llms
+Environment Name: llms
+Conda Version: conda 25.3.1
+
+Python Environment:
+Python Version: 3.11.13 | packaged by conda-forge | (main, Jun  4 2025, 14:48:23) [GCC 13.3.0]
+Python Executable: /home/dikhang_hcmut/miniconda3/envs/llms/bin/python
+
+Required Package Versions:
+openai: 1.107.2
+python-dotenv: 1.1.1
+requests: 2.32.5
+gradio: 5.45.0
+transformers: 4.56.1
+
+===== Virtualenv Check =====
+No active virtualenv detected
+
+===== Network Connectivity Check =====
+SSL Version: OpenSSL 3.5.2 5 Aug 2025
+✓ Connected to https://www.google.com
+  Response time: 0.18s
+
+Performing bandwidth test using speedtest-cli...
