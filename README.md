@@ -1,2 +1,2 @@
 # LLMEngineeringPractice
-This project for learning purpose.
+This project is configured and modified for learning LLM models purpose.
